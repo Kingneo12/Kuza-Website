@@ -15,7 +15,7 @@
 
 	&:hover {
 		color: $color-heading;
-		background: $color-white;
+		background: $color-#ffd900;
 		@include cubic-transition($delay: 0, $duration: 300ms, $property: (all));
 	}
 }

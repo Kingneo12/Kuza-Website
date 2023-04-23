@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+!DOCTYPE> html>
 <html>
 <head>
 <script>
 function myFunction() {
-  document.getElementById("demo").innerHTML = "amazing spiderman.";
+  document.getElementById("demo").innerHTML = "amazing spiderman."
 }
 </script>
 </head>
