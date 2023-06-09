@@ -63,7 +63,7 @@
 .icon-chemistry,
 .icon-speedometer,
 .icon-shield,
-.icon-screen-tablet,
+.icon-book-open,
 .icon-magic-wand,
 .icon-hourglass,
 .icon-graduation,
@@ -368,7 +368,7 @@
 .icon-shield:before {
   content: "\e00e";
 }
-.icon-screen-tablet:before {
+.icon-book-open:before {
   content: "\e00f";
 }
 .icon-magic-wand:before {
